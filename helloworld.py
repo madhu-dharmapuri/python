@@ -187,7 +187,7 @@ for n in phone:
         op += numbers_dict.get(n,'?') + ' '
 print(op)
     
-  '''
+
 
 emjois = {
        
@@ -202,6 +202,8 @@ allwords = ''
 for i in eachword:
     allwords += emjois.get(i,i) + ' '
     print(allwords)
+    
+    '''
     
     
     
